@@ -1,2 +1,4 @@
 # Walle-Python-script
-a script for andorid packaging
+A script for andorid packaging
+
+Developed for Work. 
